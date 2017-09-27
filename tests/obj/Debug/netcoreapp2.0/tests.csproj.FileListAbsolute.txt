@@ -1,0 +1,16 @@
+/home/georges/Documents/myapps/aspnetcore-generator-api/tests/bin/Debug/netcoreapp2.0/libe_sqlite3.so
+/home/georges/Documents/myapps/aspnetcore-generator-api/tests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/georges/Documents/myapps/aspnetcore-generator-api/tests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netstandard15.dll
+/home/georges/Documents/myapps/aspnetcore-generator-api/tests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netstandard15.dll
+/home/georges/Documents/myapps/aspnetcore-generator-api/tests/bin/Debug/netcoreapp2.0/tests.deps.json
+/home/georges/Documents/myapps/aspnetcore-generator-api/tests/bin/Debug/netcoreapp2.0/tests.runtimeconfig.json
+/home/georges/Documents/myapps/aspnetcore-generator-api/tests/bin/Debug/netcoreapp2.0/tests.runtimeconfig.dev.json
+/home/georges/Documents/myapps/aspnetcore-generator-api/tests/bin/Debug/netcoreapp2.0/tests.dll
+/home/georges/Documents/myapps/aspnetcore-generator-api/tests/bin/Debug/netcoreapp2.0/tests.pdb
+/home/georges/Documents/myapps/aspnetcore-generator-api/tests/bin/Debug/netcoreapp2.0/api.dll
+/home/georges/Documents/myapps/aspnetcore-generator-api/tests/bin/Debug/netcoreapp2.0/api.pdb
+/home/georges/Documents/myapps/aspnetcore-generator-api/tests/obj/Debug/netcoreapp2.0/tests.csproj.CoreCompileInputs.cache
+/home/georges/Documents/myapps/aspnetcore-generator-api/tests/obj/Debug/netcoreapp2.0/tests.AssemblyInfoInputs.cache
+/home/georges/Documents/myapps/aspnetcore-generator-api/tests/obj/Debug/netcoreapp2.0/tests.AssemblyInfo.cs
+/home/georges/Documents/myapps/aspnetcore-generator-api/tests/obj/Debug/netcoreapp2.0/tests.dll
+/home/georges/Documents/myapps/aspnetcore-generator-api/tests/obj/Debug/netcoreapp2.0/tests.pdb

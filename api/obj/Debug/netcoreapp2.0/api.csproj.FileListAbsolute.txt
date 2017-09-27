@@ -1,0 +1,12 @@
+/home/georges/Documents/myapps/aspnetcore-generator-api/api/obj/Debug/netcoreapp2.0/api.csproj.CoreCompileInputs.cache
+/home/georges/Documents/myapps/aspnetcore-generator-api/api/obj/Debug/netcoreapp2.0/api.AssemblyInfoInputs.cache
+/home/georges/Documents/myapps/aspnetcore-generator-api/api/obj/Debug/netcoreapp2.0/api.AssemblyInfo.cs
+/home/georges/Documents/myapps/aspnetcore-generator-api/api/bin/Debug/netcoreapp2.0/libe_sqlite3.so
+/home/georges/Documents/myapps/aspnetcore-generator-api/api/bin/Debug/netcoreapp2.0/api.deps.json
+/home/georges/Documents/myapps/aspnetcore-generator-api/api/bin/Debug/netcoreapp2.0/api.runtimeconfig.json
+/home/georges/Documents/myapps/aspnetcore-generator-api/api/bin/Debug/netcoreapp2.0/api.runtimeconfig.dev.json
+/home/georges/Documents/myapps/aspnetcore-generator-api/api/bin/Debug/netcoreapp2.0/api.dll
+/home/georges/Documents/myapps/aspnetcore-generator-api/api/bin/Debug/netcoreapp2.0/api.pdb
+/home/georges/Documents/myapps/aspnetcore-generator-api/api/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/home/georges/Documents/myapps/aspnetcore-generator-api/api/obj/Debug/netcoreapp2.0/api.dll
+/home/georges/Documents/myapps/aspnetcore-generator-api/api/obj/Debug/netcoreapp2.0/api.pdb
