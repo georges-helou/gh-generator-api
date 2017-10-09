@@ -5,6 +5,10 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Faker;
 using Faker.Extensions;
+using MimeKit;
+using MailKit.Net.Smtp;
+using MailKit.Security;
+using Microsoft.Extensions.Options;
 
 namespace api.Controllers
 {
@@ -12,7 +16,7 @@ namespace api.Controllers
     [Route("[action]")]
     public class GenerateController : Controller
     {
-       public string MAIL_HOST;
+        public string MAIL_HOST;
         public int MAIL_PORT;
 
         public GenerateController(IOptions<MailServerConfig> mailServerConfigAccessor)
@@ -41,7 +45,7 @@ namespace api.Controllers
                 await mailClient.DisconnectAsync(true);
             }
         }
-        
+
         [HttpGet]
         public IEnumerable<string> Names(Range range)
             => range.Of(Name.FullName);
