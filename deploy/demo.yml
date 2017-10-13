@@ -2,7 +2,7 @@ version: '3'
 
 services:
   generator:
-    image: 192.168.1.110:5000/gen:ci-${GENERATOR_BUILD_NUMBER-11}
+    image: 192.168.1.110:5000/gen:ci-${GENERATOR_BUILD_NUMBER-14}
     ports:
       - "8080:80"
   mail:
