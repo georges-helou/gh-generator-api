@@ -5,3 +5,6 @@ services:
     image: 192.168.1.110:5000/gen:ci-${GENERATOR_BUILD_NUMBER-14}
     ports:
       - "${PORT_GENERATOR-80}:80"
+    environment:
+      MAILSERVER__HOST: my-prod-mailserver
+      MAILSERVER__PORT: 25
