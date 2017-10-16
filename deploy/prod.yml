@@ -8,3 +8,18 @@ services:
     environment:
       MAILSERVER__HOST: my-prod-mailserver
       MAILSERVER__PORT: 25
+
+version: '3.3'
+
+#services:
+#  generator:
+#   image: 192.168.1.110:5000/gen:ci-${GENERATOR_BUILD_NUMBER-14}
+#    ports:
+#      - "${PORT_GENERATOR-80}:80"
+#    configs:
+#      - source: prodappsettings
+#        target: /publish/appsettings.json
+
+#configs:
+#  prodappsettings:
+#    file: ./prodappsettings.json
