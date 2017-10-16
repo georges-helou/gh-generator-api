@@ -9,7 +9,7 @@ services:
       MAILSERVER__HOST: my-prod-mailserver
       MAILSERVER__PORT: 25
 
-version: '3.3'
+#version: '3.3'
 
 #services:
 #  generator:
