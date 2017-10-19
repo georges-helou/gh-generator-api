@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  web:
+    image: generator:lin
+    build: .
+    ports:
+      - "8080:80"
+
+# to fix network issue for windows conatiners
+#networks: 
+  #default:
+    #external:
+      #name: nat
